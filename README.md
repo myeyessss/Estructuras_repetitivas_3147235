@@ -42,3 +42,26 @@ while condicional:
    instruccion3
 ```
 instruccion n 
+
+## Ciclo for 
+
+Se utiliza para recorrer
+conjuntos de datos(estructuras de datos
+- conexciones de datos) 
+
+* El ciclo recorera cada dato
+ en la estrcutura desde el primero
+  hasta el ultimo**
+  
+*El elemento recorrido se asigna
+a una variable en el ciclo
+
+### Sintaxis for:
+```
+for <variable> in <conjunto de datos>:
+        instruccion 1
+        instruccion 2
+        instruccion 3
+        ...
+        instruccion n
+```
