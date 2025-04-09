@@ -74,7 +74,7 @@ paises = [
                     
             }
          ]
-# Recorrer todos los paises:
+# Recorrer todos los paise:
 print ("Recorriendo todos los países:")
 for pais in paises:
     print("Ciudades Principales")
